@@ -6,11 +6,6 @@ This repository contains code and experiments accompanying our **accepted ICASSP
 ## Overview
 We introduce an encoder–decoder formulation of symmetric nonnegative matrix tri-factorization (SNMTF) that enforces consistency between graph reconstruction and latent recovery. This coupling yields stable embeddings and well-separated clusters without explicit orthogonality constraints or post-processing.
 
-## Contents
-- `ED-SNMTF.py` — PyTorch implementation of ED-SNMTF  
-- Training, evaluation, and visualization scripts  
-- Experiments on benchmark graph datasets
-
 ## Requirements
 - Python 3.x  
 - PyTorch  
