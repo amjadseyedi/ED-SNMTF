@@ -1,7 +1,7 @@
-# ICASSP 2026
+# ED-SNMTF
 
 This repository contains code and experiments accompanying our **accepted ICASSP 2026 paper** on  
-**Encoder–Decoder Symmetric Nonnegative Matrix Tri-Factorization (ED-SNMTF)** for graph clustering.
+**Encoder–Decoder Symmetric Nonnegative Matrix Tri-Factorization for graph clustering**.
 
 ## Overview
 We introduce an encoder–decoder formulation of symmetric nonnegative matrix tri-factorization (SNMTF) that enforces consistency between graph reconstruction and latent recovery. This coupling yields stable embeddings and well-separated clusters without explicit orthogonality constraints or post-processing.
