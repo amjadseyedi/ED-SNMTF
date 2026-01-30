@@ -1,4 +1,4 @@
-# ED-SNMTF
+# Encoder-Decoder SNMTF
 
 This repository contains code and experiments accompanying our **accepted ICASSP 2026 paper** on  
 **Encoder–Decoder Symmetric Nonnegative Matrix Tri-Factorization for graph clustering**.
